@@ -1,0 +1,4 @@
+# Hosts to check - one per line. Anything after '#' is ignored.
+8.8.8.8          # Google DNS
+1.1.1.1          # Cloudflare DNS
+github.com
